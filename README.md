@@ -1,8 +1,17 @@
-# React + Vite
+# Todo-Theme-Switcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Todo-Theme-Switcher is a that provides todo and theme switching functionality.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Toggle Theme
+- Add Todo
+- Delete Todo
+- Strikeoff Todo
+
+## Installation
+
+Provide steps on how to install your application. Once you're done cloning the application
+
+- Step 1: npm i
+- Step 2: npm run dev
